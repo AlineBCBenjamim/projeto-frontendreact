@@ -2,7 +2,7 @@ import { useContext } from "react";
 import { useNavigate } from "react-router-dom";
 import {goToHomePage, goToCarrinhoPage} from "../../routes/coordinator";
 import { NavbarStyled } from "./styled";
-import logo from "../../assets/logo.png";
+import logo from "../../assets/Logo.png";
 import { GlobalContext} from "../../contexts/GlobalContext";
 import lupa from "../../assets/lupa.svg";
 import carrinho from "../../assets/carrinho.png";
