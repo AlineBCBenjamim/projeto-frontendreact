@@ -1,0 +1,60 @@
+
+
+[{
+	"id": 1,
+	"name": "LEGO DUPLO Town Missão de Ônibus Espacial",
+	"value": 182.90,
+	"imageUrl": "https://m.media-amazon.com/images/I/81WeaOKgrwL._AC_SX679_.jpg",
+	"imageAlt":"Brinquedo Lego, um ônibus espacial, e dois bonecos sendo que um é uma menina e o outro um menino" 
+},
+{
+	"id": 2,
+	"name": "The Jetsons - Nave em P.V.C.",
+	"value": 499.00,
+	"imageUrl": "https://arteemminiaturas.com.br/webapps/imagefile/arquivos/the-jetsons-resina-00955-01.jpg",
+	"imageAlt":"Uma nave espacial, dentro dela consta a família Jetson" 
+},
+{
+	"id": 3,
+	"name": "Lego Star Wars Nave Millennium Falcon",
+	"value": 1499.99,
+	"imageUrl": "https://images-americanas.b2w.io/produtos/1328250311/imagens/lego-star-wars-nave-millennium-falcon-75257/1328250071_1_xlarge.jpg",
+	"imageAlt":" Lego Star Wars, Nave espacial millennium falcon" 
+},
+{
+	"id": 4,
+	"name": "Brinquedo Astronauta Missão Marte Estação Espacial",
+	"value": 387.99, 
+	"imageUrl": "https://a-static.mlcdn.com.br/800x560/brinquedo-astronauta-missao-marte-estacao-espacial-f00811-fun/maisbaratobrinquedos/7302999/0f18dad503c79bb4ef9328024e6e1209.jpeg",
+	"imageAlt":"Brinquedo de uma estação espacial de marte, contêm um astronauta" 
+},
+{
+	"id": 5,
+	"name": "Brinquedo Rover Espacial Astronauta",
+	"value": 149.99, 
+	"imageUrl": "https://dkl2hx95l74wc.cloudfront.net/Custom/Content/Products/88/28/88288_brinquedo-rover-espacial-astronauta-fun-pr-13144-f00242_z1_637771431288466738.jpg",
+	"imageAlt":"Brinquedo, um carro Rover espacial, contêm um astronauta" 
+},
+{
+	"id": 6,
+	"name": "Futurama Planet Express Ship",
+	"value": 388.00, 
+	"imageUrl": "https://imgs.casasbahia.com.br/1526289129/1xg.jpg",
+	"imageAlt":"Brinquedo, nave espacial futurama" 
+},
+{
+	"id": 7,
+	"name": "Disney Buzz Lightyear Boneco de ação interativo",
+	"value": 496.00, 
+	"imageUrl": "https://imgs.casasbahia.com.br/1515626511/1xg.jpg",
+	"imageAlt":"Brinquedo, Buzz Lightyear Boneco de ação interativo" 
+},
+{
+	"id": 8,
+	"name": "Astronomia",
+	"value": 136.65, 
+	"imageUrl": "https://m.media-amazon.com/images/I/91SjKcYGFVL._AC_SX679_.jpg",
+	"imageAlt":"Jogo astronomia, experiência divertidas que ensinam como funciona o sistema solar" 
+}
+
+]
